@@ -53,7 +53,7 @@ a:hover, a:focus {
 label {
   text-transform: uppercase;
   color: #220013;
-  font-size: 10px;
+  font-size: 12px;
   margin-bottom: 10px;
   line-height: 24px;
 }
@@ -567,7 +567,7 @@ ul.inline li {
   color: #220606;
   line-height: 40px;
   text-transform: uppercase;
-  font-size: 10px;
+  font-size: 14px;
 }
 /* line 380, ../development/scss/app/_base.scss */
 .tree-menu > ul > li > a:hover, .tree-menu > ul > li > a:focus {
@@ -601,7 +601,7 @@ ul.inline li {
   display: block;
   padding: 8px 0;
   color: black;
-  font-size: 10px;
+  font-size: 12px;
 }
 /* line 401, ../development/scss/app/_base.scss */
 .tree-menu > ul > li ul li > a.active {
@@ -830,8 +830,8 @@ dl {
 /* line 1, ../development/scss/app/_form.scss */
 .btn-outline-inverse {
   color: white !important;
-  background-color: #7b0046;
-  border-color: #7b0046;
+  background-color: #983e00;
+  border-color: #983e00;
 }
 /* line 220, ../development/scss/mixins/_app.scss */
 .btn-outline-inverse:hover, .btn-outline-inverse:focus, .btn-outline-inverse:active, .btn-outline-inverse.active {
@@ -855,12 +855,12 @@ dl {
 }
 /* line 244, ../development/scss/mixins/_app.scss */
 .btn-outline-inverse.disabled, .btn-outline-inverse.disabled:hover, .btn-outline-inverse.disabled:focus, .btn-outline-inverse.disabled:active, .btn-outline-inverse.disabled.active, .btn-outline-inverse[disabled], .btn-outline-inverse[disabled]:hover, .btn-outline-inverse[disabled]:focus, .btn-outline-inverse[disabled]:active, .btn-outline-inverse[disabled].active, fieldset[disabled] .btn-outline-inverse, fieldset[disabled] .btn-outline-inverse:hover, fieldset[disabled] .btn-outline-inverse:focus, fieldset[disabled] .btn-outline-inverse:active, fieldset[disabled] .btn-outline-inverse.active {
-  background-color: #7b0046;
-  border-color: #7b0046;
+  background-color: #983e00;
+  border-color: #983e00;
 }
 /* line 250, ../development/scss/mixins/_app.scss */
 .btn-outline-inverse .badge {
-  color: #7b0046;
+  color: #983e00;
   background-color: white;
 }
 
@@ -988,11 +988,11 @@ body.layout-boxed-lg #page {
 /* Topbar */
 /* line 38, ../development/scss/app/_layout.scss */
 #topbar {
-  padding: 15px 0 15px;
-  min-height: 55px;
+  padding: 8px 0 5px;
+  min-height: 20px;
   font-size: 11px;
-  background: #e1e1e1;
-  color: #959595;
+  background: #111;
+  color: #f2f2f2;
 }
 /* line 281, ../development/scss/mixins/_app.scss */
 #topbar a {
@@ -1109,17 +1109,17 @@ body.layout-boxed-lg #page {
 
 /* line 140, ../development/scss/app/_layout.scss */
 .footer-center {
-  background: #220606;
+  background: #111;
 }
 /* line 142, ../development/scss/app/_layout.scss */
 .footer-center .inner {
-  padding: 35px 0;
-  background: #220606;
-  color: #959595;
+  padding: 10px 0;
+  background: #111;
+  color: #f2f2f2;
 }
 /* line 281, ../development/scss/mixins/_app.scss */
 .footer-center .inner a {
-  color: #959595;
+  color: #f2f2f2;
 }
 /* line 283, ../development/scss/mixins/_app.scss */
 .footer-center .inner a:hover {
@@ -1138,7 +1138,7 @@ body.layout-boxed-lg #page {
 }
 /* line 159, ../development/scss/app/_layout.scss */
 #powered .inner {
-  padding: 30px 0 60px;
+  padding: 30px 0 10px;
   background: black;
   overflow: hidden;
 }
@@ -1247,7 +1247,7 @@ body.layout-boxed-lg #page {
   content: "";
   width: 100%;
   height: 1px;
-  background: #ebebeb;
+  background: #111;
   position: absolute;
   left: 0px;
   top: 50%;
@@ -1323,13 +1323,13 @@ body.layout-boxed-lg #page {
 }
 /* line 81, ../development/scss/app/_block.scss */
 .footer-center .box .box-heading:before {
-  background: #33001d;
+  background: #fff;
   top: 100%;
 }
 /* line 85, ../development/scss/app/_block.scss */
 .footer-center .box .box-heading > span {
   background: none;
-  color: #42323b;
+  color: #fff;
   font-size: 12px;
   font-weight: bold;
   padding: 0;
@@ -1351,7 +1351,7 @@ body.layout-boxed-lg #page {
 /* line 103, ../development/scss/app/_block.scss */
 .footer-center .box .box-content .fa {
   font-size: 18px;
-  color: #41323c;
+  color: #f2f2f2;
 }
 
 /*BLOCK style in MASSBOTTOM*/
@@ -1814,7 +1814,7 @@ body.layout-boxed-lg #page {
   padding: 0;
   margin: 0;
   display: inline-block;
-  color: #959595;
+  color: #f9f9f9;
   font-weight: 400;
 }
 /* line 99, ../development/scss/opencart/_opencart-modules.scss */
@@ -1856,7 +1856,7 @@ body.layout-boxed-lg #page {
 #cart .heading a {
   cursor: pointer;
   font-weight: bold;
-  color: black;
+  color: #f9f9f9;
 }
 /* line 130, ../development/scss/opencart/_opencart-modules.scss */
 #cart .checkout {
@@ -4541,7 +4541,7 @@ body,
 
 /* line 53, ../development/scss/opencart/_style.scss */
 .link-active a {
-  color: #7b0046 !important;
+  color: #fff !important;
 }
 
 /* line 59, ../development/scss/opencart/_style.scss */

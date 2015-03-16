@@ -195,13 +195,16 @@ Please donate via PayPal to donate@opencart.com
 			<?php } else { ?>
 				<?php echo $powered; ?>. 
 			<?php } ?>
-			Designed by <a href="http://www.pavothemes.com" title="PavoThemes - Opencart Themes Clubs" target="_blank">PavoThemes</a>
-			</div>	
-			<?php if( $content=$helper->getLangConfig('widget_paypal') ) {?>
+			Designed by <a href="http://www.sob.vn" title="Web Design Professional" target="_blank">SOB.vn</a>
+			</div>
+			<div class="paypal pull-right">
+					<p><img src="image/data/paypal.png"></p>
+			</div>
+			<!--<?php if( $content=$helper->getLangConfig('widget_paypal') ) {?>
 				<div class="paypal pull-right">
 					<?php echo $content; ?>
-			</div>
-			 <?php } ?>
+				</div>
+			 <?php } ?>-->
 		</div>
 	</div>
 </div>

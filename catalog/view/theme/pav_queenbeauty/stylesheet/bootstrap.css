@@ -400,10 +400,10 @@ html {
 
 /* line 27, ../development/scss/bootstrap/_scaffolding.scss */
 body {
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
-  font-size: 12px;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 14px;
   line-height: 1.42857;
-  color: #959595;
+  color: #444;
   background-color: white;
 }
 
