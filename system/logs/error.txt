@@ -1,3 +1,4 @@
 2015-03-16 7:25:19 - PHP Notice:  Undefined index: custom_email_config in E:\xampp\htdocs\apect-dev\admin\view\template\module\pavnewsletter\config.tpl on line 36
 2015-03-16 7:27:04 - PHP Notice:  Undefined index: custom_email_config in E:\xampp\htdocs\apect-dev\admin\view\template\module\pavnewsletter\config.tpl on line 36
 2015-03-16 7:59:14 - PHP Notice:  Undefined index: custom_email_config in E:\xampp\htdocs\apect-dev\admin\view\template\module\pavnewsletter\config.tpl on line 36
+2015-03-16 8:40:12 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /home/ubuntu/workspace/system/library/session.php on line 12

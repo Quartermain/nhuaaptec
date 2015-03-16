@@ -4,8 +4,8 @@ define('HTTP_SERVER', 'http://nhuaaptec-quartermain-1.c9.io/admin/');
 define('HTTP_CATALOG', 'http://nhuaaptec-quartermain-1.c9.io/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://nhuaaptec-quartermain-1.c9.io/admin/');
-define('HTTPS_CATALOG', 'http://nhuaaptec-quartermain-1.c9.io/');
+define('HTTPS_SERVER', 'https://nhuaaptec-quartermain-1.c9.io/admin/');
+define('HTTPS_CATALOG', 'https://nhuaaptec-quartermain-1.c9.io/');
 
 // DIR
 define('DIR_APPLICATION', '/home/ubuntu/workspace/admin/');
