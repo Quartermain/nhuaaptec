@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6,
 
 /* line 15, ../development/scss/app/_base.scss */
 a:hover, a:focus {
-  color: #7b0046;
+  color: #983e00;
   text-decoration: none;
 }
 
@@ -108,7 +108,7 @@ input {
 }
 /* line 61, ../development/scss/app/_base.scss */
 .breadcrumb > li:last-child span {
-  color: #7b0046;
+  color: #983e00;
 }
 
 /* line 65, ../development/scss/app/_base.scss */
@@ -254,7 +254,7 @@ select {
   top: 0px;
   left: 0;
   width: 100%;
-  background: #7b0046;
+  background: #983e00;
 }
 /* line 155, ../development/scss/app/_base.scss */
 .nav.nav-stacked > li.active > a:after {
@@ -267,7 +267,7 @@ select {
   width: 3px;
   height: 100%;
   top: 0px;
-  background: #7b0046;
+  background: #983e00;
 }
 
 /* line 168, ../development/scss/app/_base.scss */
@@ -288,7 +288,7 @@ select {
 /* line 177, ../development/scss/app/_base.scss */
 .carousel-control {
   background: white;
-  color: #7b0046;
+  color: #983e00;
   font-size: 18px;
   width: 18px;
   height: 18px;
@@ -313,7 +313,7 @@ select {
 }
 /* line 198, ../development/scss/app/_base.scss */
 .carousel-control:hover, .carousel-control:focus {
-  color: #7b0046;
+  color: #983e00;
 }
 
 /* line 206, ../development/scss/app/_base.scss */
@@ -346,7 +346,7 @@ ul.bullet li a:before {
 }
 /* line 220, ../development/scss/app/_base.scss */
 ul.bullet li a:hover:before {
-  color: #7b0046;
+  color: #983e00;
 }
 
 /* line 230, ../development/scss/app/_base.scss */
@@ -372,7 +372,7 @@ ul.bullet li a:hover:before {
 }
 /* line 253, ../development/scss/app/_base.scss */
 .pagination b {
-  color: #7b0046;
+  color: #983e00;
 }
 
 /* line 558, ../development/scss/mixins/_bootstrap.scss */
@@ -447,7 +447,7 @@ ul.bullet li a:hover:before {
 
 /* line 291, ../development/scss/app/_base.scss */
 .dropdown-menu {
-  border-top: 3px solid #7b0046;
+  border-top: 3px solid #983e00;
   text-align: left;
   left: 0;
   z-index: 10000;
@@ -481,7 +481,7 @@ ul.links li a {
 }
 /* line 308, ../development/scss/app/_base.scss */
 ul.links li a:hover {
-  color: #7b0046;
+  color: #983e00;
 }
 /* line 312, ../development/scss/app/_base.scss */
 ul.links li .fa, ul.links li .icon {
@@ -571,11 +571,11 @@ ul.inline li {
 }
 /* line 380, ../development/scss/app/_base.scss */
 .tree-menu > ul > li > a:hover, .tree-menu > ul > li > a:focus {
-  color: #7b0046;
+  color: #983e00;
 }
 /* line 386, ../development/scss/app/_base.scss */
 .tree-menu > ul > li a.active {
-  color: #7b0046;
+  color: #983e00;
 }
 /* line 388, ../development/scss/app/_base.scss */
 .tree-menu > ul > li a.active + ul {
@@ -606,7 +606,7 @@ ul.inline li {
 /* line 401, ../development/scss/app/_base.scss */
 .tree-menu > ul > li ul li > a.active {
   font-weight: bold;
-  color: #7b0046;
+  color: #983e00;
 }
 
 /* line 411, ../development/scss/app/_base.scss */
@@ -866,21 +866,21 @@ dl {
 
 /* line 5, ../development/scss/app/_form.scss */
 .btn-outline {
-  color: #7b0046 !important;
+  color: #983e00 !important;
   background-color: white;
   border-color: #ebebeb;
 }
 /* line 220, ../development/scss/mixins/_app.scss */
 .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
   color: white !important;
-  background-color: #7b0046;
-  border-color: #7b0046;
+  background-color: #983e00;
+  border-color: #983e00;
 }
 /* line 225, ../development/scss/mixins/_app.scss */
 .open .btn-outline.dropdown-toggle {
   color: white !important;
-  background-color: #7b0046;
-  border-color: #7b0046;
+  background-color: #983e00;
+  border-color: #983e00;
 }
 /* line 231, ../development/scss/mixins/_app.scss */
 .btn-outline:active, .btn-outline.active {
@@ -898,7 +898,7 @@ dl {
 /* line 250, ../development/scss/mixins/_app.scss */
 .btn-outline .badge {
   color: white;
-  background-color: #7b0046;
+  background-color: #983e00;
 }
 
 /* line 9, ../development/scss/app/_form.scss */
@@ -910,14 +910,14 @@ dl {
 /* line 220, ../development/scss/mixins/_app.scss */
 .btn-inverse:hover, .btn-inverse:focus, .btn-inverse:active, .btn-inverse.active {
   color: white !important;
-  background-color: #7b0046;
-  border-color: #7b0046;
+  background-color: #983e00;
+  border-color: #983e00;
 }
 /* line 225, ../development/scss/mixins/_app.scss */
 .open .btn-inverse.dropdown-toggle {
   color: white !important;
-  background-color: #7b0046;
-  border-color: #7b0046;
+  background-color: #983e00;
+  border-color: #983e00;
 }
 /* line 231, ../development/scss/mixins/_app.scss */
 .btn-inverse:active, .btn-inverse.active {
@@ -1052,11 +1052,11 @@ body.layout-boxed-lg #page {
 /* line 80, ../development/scss/app/_layout.scss */
 #pav-masshead .inner {
   background: none;
-  color: #7b0046;
+  color: #983e00;
 }
 /* line 281, ../development/scss/mixins/_app.scss */
 #pav-masshead .inner a {
-  color: #7b0046;
+  color: #983e00;
 }
 /* line 283, ../development/scss/mixins/_app.scss */
 #pav-masshead .inner a:hover {
@@ -1123,7 +1123,7 @@ body.layout-boxed-lg #page {
 }
 /* line 283, ../development/scss/mixins/_app.scss */
 .footer-center .inner a:hover {
-  color: #7b0046;
+  color: #983e00;
 }
 /* line 146, ../development/scss/app/_layout.scss */
 .footer-center ul {
@@ -1153,7 +1153,7 @@ body.layout-boxed-lg #page {
 }
 /* line 168, ../development/scss/app/_layout.scss */
 #powered a {
-  color: #7b0046;
+  color: #983e00;
 }
 
 /* SIDEBAR */
@@ -1375,11 +1375,14 @@ body.layout-boxed-lg #page {
 }
 /* line 129, ../development/scss/app/_block.scss */
 .sidebar .box-heading > * {
-  padding: 0px;
+  padding: 0px;font-size:18px;
 }
 /* line 132, ../development/scss/app/_block.scss */
 .sidebar .box-heading:before {
   background: none;
+}#topbar .box-language {
+    color: #000;
+    font-size: 11px;
 }
 /* line 136, ../development/scss/app/_block.scss */
 .sidebar .box-content {
@@ -1663,13 +1666,13 @@ body.layout-boxed-lg #page {
 .price {
   line-height: 30px;
   padding: 5px 0 0px;
-  color: #7b0046;
+  color: #983e00;
 }
 
 /* line 95, ../development/scss/app/_product.scss */
 .price-new, .special-price, .price-tax {
   font-size: 18px;
-  color: #7b0046;
+  color: #983e00;
 }
 
 /* line 99, ../development/scss/app/_product.scss */
@@ -1763,7 +1766,7 @@ body.layout-boxed-lg #page {
 }
 /* line 54, ../development/scss/opencart/_opencart-modules.scss */
 .box-language span:hover {
-  color: #7b0046;
+  color: #983e00;
 }
 
 /* line 60, ../development/scss/opencart/_opencart-modules.scss */
@@ -1776,15 +1779,15 @@ body.layout-boxed-lg #page {
   border: 1px solid #dbdbdb;
   padding: 4px 8px;
   cursor: pointer;
-  color: #7b0046;
+  color: #983e00;
 }
 /* line 69, ../development/scss/opencart/_opencart-modules.scss */
 .box-currency a:hover {
-  border-color: #7b0046;
+  border-color: #983e00;
 }
 /* line 73, ../development/scss/opencart/_opencart-modules.scss */
 .box-currency a b {
-  color: #7b0046;
+  color: #983e00;
 }
 
 /* line 77, ../development/scss/opencart/_opencart-modules.scss */
@@ -1966,7 +1969,7 @@ body.layout-boxed-lg #page {
 }
 /* line 199, ../development/scss/opencart/_opencart-modules.scss */
 .box-search .btn-search:hover {
-  color: #7b0046;
+  color: #983e00;
 }
 /* line 204, ../development/scss/opencart/_opencart-modules.scss */
 .box-search .nav-search {
@@ -2249,7 +2252,7 @@ body.layout-boxed-lg #page {
 /* back top top */
 /* line 377, ../development/scss/opencart/_opencart-modules.scss */
 .scrollup {
-  background: #7b0046;
+  background: #983e00;
   bottom: 82px;
   display: none;
   position: fixed;
@@ -2810,7 +2813,7 @@ body.layout-boxed-lg #page {
 /* line 355, ../development/scss/opencart/_opencart-pages.scss */
 .cart-info .total {
   font-size: 15px;
-  color: #7b0046;
+  color: #983e00;
 }
 
 /* line 361, ../development/scss/opencart/_opencart-pages.scss */
@@ -2830,7 +2833,7 @@ body.layout-boxed-lg #page {
 /* line 368, ../development/scss/opencart/_opencart-pages.scss */
 .wrapper-cart-total .last {
   font-size: 30px;
-  color: #7b0046;
+  color: #983e00;
 }
 
 /* line 374, ../development/scss/opencart/_opencart-pages.scss */
@@ -3346,7 +3349,7 @@ body.layout-boxed-lg #page {
 }
 /* line 726, ../development/scss/opencart/_opencart-pages.scss */
 .contact-content .fa:hover {
-  background-color: #7b0046;
+  background-color: #983e00;
 }
 
 /* line 732, ../development/scss/opencart/_opencart-pages.scss */
@@ -3395,7 +3398,7 @@ body.layout-boxed-lg #page {
 }
 /* line 29, ../development/scss/app/_menu.scss */
 .pav-megamenu .megamenu > li > a:hover {
-  color: #7b0046;
+  color: #983e00;
 }
 /* line 35, ../development/scss/app/_menu.scss */
 .pav-megamenu .pav-colorbox {
@@ -3467,7 +3470,7 @@ body.layout-boxed-lg #page {
 }
 /* line 79, ../development/scss/app/_menu.scss */
 .pav-megamenu .navbar-nav > li:hover > a .caret:before, .pav-megamenu .navbar-nav > li:active > a .caret:before {
-  color: #7b0046;
+  color: #983e00;
 }
 /* line 82, ../development/scss/app/_menu.scss */
 .pav-megamenu .navbar-nav > li:hover > a:before {
@@ -3523,11 +3526,11 @@ body.layout-boxed-lg #page {
 /* line 113, ../development/scss/app/_menu.scss */
 .pav-megamenu .dropdown-menu li a:hover {
   background-color: transparent;
-  color: #7b0046;
+  color: #983e00;
 }
 /* line 116, ../development/scss/app/_menu.scss */
 .pav-megamenu .dropdown-menu li a:hover .fa {
-  color: #7b0046;
+  color: #983e00;
 }
 /* line 122, ../development/scss/app/_menu.scss */
 .pav-megamenu .dropdown-menu .menu-title {
@@ -3546,11 +3549,11 @@ body.layout-boxed-lg #page {
 }
 /* line 133, ../development/scss/app/_menu.scss */
 .pav-megamenu .dropdown:hover > a {
-  color: #7b0046;
+  color: #983e00;
 }
 /* line 135, ../development/scss/app/_menu.scss */
 .pav-megamenu .dropdown:hover > a .fa {
-  color: #7b0046;
+  color: #983e00;
 }
 /* line 142, ../development/scss/app/_menu.scss */
 .pav-megamenu .dropdown-submenu {
@@ -3661,7 +3664,7 @@ div.verticalmenu .navbar-nav > li {
 /* line 220, ../development/scss/app/_menu.scss */
 div.verticalmenu .navbar-nav > li > a {
   display: block;
-  color: #7b0046;
+  color: #983e00;
   padding: 14px 10px 15px 20px;
   border-bottom: 1px solid #ebebeb;
 }
@@ -3699,7 +3702,7 @@ div.verticalmenu .navbar-nav > li:hover {
 }
 /* line 248, ../development/scss/app/_menu.scss */
 div.verticalmenu .navbar-nav > li:hover > a {
-  color: #7b0046 !important;
+  color: #983e00 !important;
 }
 /* line 250, ../development/scss/app/_menu.scss */
 div.verticalmenu .navbar-nav > li:hover > a .menu-icon {
@@ -3725,7 +3728,7 @@ div.verticalmenu .navbar-nav > li .parent {
 div.verticalmenu .navbar-nav > li .parent > .dropdown-toggle {
   text-transform: none;
   font-weight: normal;
-  color: #7b0046;
+  color: #983e00;
 }
 /* line 266, ../development/scss/app/_menu.scss */
 div.verticalmenu .navbar-nav > li .parent > .dropdown-toggle:hover {
@@ -3808,14 +3811,14 @@ div.verticalmenu .dropdown-menu ul li {
 }
 /* line 317, ../development/scss/app/_menu.scss */
 div.verticalmenu .dropdown-menu ul li a {
-  color: #7b0046;
+  color: #983e00;
   font-weight: 400;
   padding: 0;
 }
 /* line 324, ../development/scss/app/_menu.scss */
 div.verticalmenu .dropdown-menu p {
   line-height: 18px;
-  color: #7b0046;
+  color: #983e00;
 }
 /* line 328, ../development/scss/app/_menu.scss */
 div.verticalmenu .dropdown-menu .pav-menu-video {
@@ -3929,7 +3932,7 @@ div.verticalmenu .dropdown-menu .action {
 }
 /* line 414, ../development/scss/app/_menu.scss */
 .pavo-widget a:hover {
-  color: #7b0046;
+  color: #983e00;
 }
 /* line 418, ../development/scss/app/_menu.scss */
 .pavo-widget ul {
@@ -3974,7 +3977,7 @@ div.verticalmenu .dropdown-menu .action {
 
 /* line 6, ../development/scss/opencart/_offcanvas.scss */
 #menu-offcanvas .menu-offcanvas-inner {
-  background-color: #7b0046;
+  background-color: #983e00;
 }
 /* line 10, ../development/scss/opencart/_offcanvas.scss */
 #menu-offcanvas .dropdown .dropdown-menu {
